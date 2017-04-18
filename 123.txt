@@ -1,0 +1,5 @@
+document.designMode = "on"
+
+filter: hue-rotate(0deg);
+
+filter: invert();
